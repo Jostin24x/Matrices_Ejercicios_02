@@ -5,6 +5,7 @@ import java.util.Scanner;
  *
  * @author ACER
  */
+//EJERCICIO: MATRIZ DE 10X1O INGRESADO POR TECLADO QUE SUME TODAS LA COLUMNAS IMPARES DE LA MATRIZ
 public class Matriz_ejercicio_05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
